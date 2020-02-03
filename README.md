@@ -1,0 +1,2 @@
+# Introduction-To-Neural-Network
+This project involves building an ANN-based churn model that can determine whether certain bank customers will continue using their service or not. The ANN model analyzes the relationship between customer churn &amp; multiple independent variables affecting churn. Recommendations for improvements in service were suggested based on the results of the analysis. Skills and Tools Neural Networks, Classification, Keras, Tensorflow
